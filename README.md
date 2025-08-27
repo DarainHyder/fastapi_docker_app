@@ -1,5 +1,4 @@
 # FastAPI Docker App
-
 This project is a simple FastAPI application deployed inside a Docker container. It demonstrates how to set up and run a FastAPI server with Docker from scratch.
 
 ## 📁 Project Structure
